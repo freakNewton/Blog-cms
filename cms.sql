@@ -21,7 +21,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `cms`
 --
-CREATE DATABASE IF NOT EXISTS `cms` DEFAULT CHARACTER SET latin1 COLLATE utf8_general_ci;
+CREATE DATABASE IF NOT EXISTS `cms` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 USE `cms`;
 -- --------------------------------------------------------
 
