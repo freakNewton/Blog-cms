@@ -6,7 +6,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item <?php echo $active_page == 'home' ? active:'';?>">
+                <li class="nav-item <?php echo $active_page == 'home' ? 'active':'';?>">
                     <a class="nav-link" href="index.php">Home
                         <span class="sr-only">(current)</span>
                     </a>
